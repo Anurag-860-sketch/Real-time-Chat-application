@@ -1,1 +1,1 @@
-# Real-time-Chat-application
+# Real-time-Chat-application:MERN with socket.io
